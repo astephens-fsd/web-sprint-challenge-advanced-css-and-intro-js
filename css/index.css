@@ -162,3 +162,17 @@ button:hover{
         font-size: 3rem;
         font-weight: bold;
     }
+
+    img{
+        width: 70%;
+        height: 25%;
+    }
+
+    .artists-container{
+        flex-wrap: wrap;
+    }
+
+    .artist{
+        width: 60%;
+        justify-content: space-around;
+    }
